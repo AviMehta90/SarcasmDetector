@@ -1,2 +1,1 @@
-# Sarcasm
- 
+# Sarcasm Detector LSTM - RNN Model
